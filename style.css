@@ -235,6 +235,7 @@ border-radius: 10%;
 }
 
 .s1{
+    width:100%;
     height: auto;
     background-color: rgba(126, 121, 121, 0.958);
    padding-top: 40px;
@@ -290,7 +291,7 @@ img{
     background-color: rgba(126, 121, 121, 0.958);
    padding-top: 40px;
    padding-bottom: 40px;
-   
+   width:100%;
 }
 
 
